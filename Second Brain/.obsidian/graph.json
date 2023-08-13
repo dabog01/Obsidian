@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Web Development Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 10961988
+      }
+    },
+    {
+      "query": "path:\"Programming Languages\"",
+      "color": {
+        "a": 1,
+        "rgb": 11043124
+      }
+    },
+    {
+      "query": "path:Tools",
+      "color": {
+        "a": 1,
+        "rgb": 6848823
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.73333333333333,
+  "lineSizeMultiplier": 1.325,
+  "collapse-forces": false,
+  "centerStrength": 0.536458333333333,
+  "repelStrength": 10.2083333333333,
+  "linkStrength": 0.515625,
+  "linkDistance": 182,
+  "scale": 1.0254318843989527,
+  "close": true
+}
