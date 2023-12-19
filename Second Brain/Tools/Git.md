@@ -1,4 +1,4 @@
---- 
+****--- 
 - Keep track changes that we make to code
 - Version Control tool
 - Command line tool
@@ -41,8 +41,11 @@ I would like to take a snapshot of the current state of the repository keeping t
 git commit -m <message>
 
 // <message> : Known as a commit message, is a description of what changes you've made in this most recent commit
-~~~
 
+git commit --amend -m "Correct message"
+
+// You can change the most recent commit message
+~~~
 ### Git status
 
 Tell us what is currently happening inside of my repository
@@ -172,7 +175,11 @@ git checkout -b <branch_name>
 ~~~
 git checkout <branch_name>
 ~~~
+##### Upload a local branch to the repository
 
+~~~
+git push --set-upstream origin <branch_name>
+~~~
 #### Git merge
 
 ~~~
@@ -186,7 +193,6 @@ git merge <branch_name>
 Forking a GitHub repository mean making your own copy of the original repository
 
 ==Useful Example : Bootstrap GitHub Repository==
-
 ### GitHub Pages
 
 GitHub Pages website for free

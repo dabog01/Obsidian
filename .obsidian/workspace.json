@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "9a1a7221d13cff72",
+    "id": "2c4fe7a49f23c8d2",
     "type": "split",
     "children": [
       {
-        "id": "4617aa1183063697",
+        "id": "694a97c2686ec58c",
         "type": "tabs",
         "children": [
           {
-            "id": "a808195b01246f3a",
+            "id": "a762306fc92c872d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Septimo emestre/Sistemas Transaccionales/Sistemas de Prosesamiento de Transacciones..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "121b07b31f11cb53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Septimo emestre/Sistemas Transaccionales/Sistemas de Prosesamiento de Transacciones..md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "59416583fd40a377",
+    "id": "a4455bfaf9765070",
     "type": "split",
     "children": [
       {
-        "id": "99341ab4fb77bfd6",
+        "id": "6cc5f5fd5b809647",
         "type": "tabs",
         "children": [
           {
-            "id": "5bffb224487babec",
+            "id": "d1cf8483c76e4012",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "dd6450bf6964a7e0",
+            "id": "860765e22bdfa295",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "11a8e46a960b99c1",
+            "id": "8811c51cbcb522c7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,24 +65,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "174af03cb0f57962",
+    "id": "a668691937604ed4",
     "type": "split",
     "children": [
       {
-        "id": "f886e9aafb6a12c2",
+        "id": "caa11b13985d10a5",
         "type": "tabs",
         "children": [
           {
-            "id": "cf3254972351a3cd",
+            "id": "2f01bb267518bc52",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Septimo emestre/Sistemas Transaccionales/Sistemas de Prosesamiento de Transacciones..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,19 +93,18 @@
             }
           },
           {
-            "id": "59c57d405d5c66a1",
+            "id": "0f9d893d36adb339",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Septimo emestre/Sistemas Transaccionales/Sistemas de Prosesamiento de Transacciones..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d7ac4dcae1aedc11",
+            "id": "c317b28a7a2095d9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,13 +115,11 @@
             }
           },
           {
-            "id": "cd696b5557db7184",
+            "id": "6ccc03c35c8ff768",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Septimo emestre/Sistemas Transaccionales/Sistemas de Prosesamiento de Transacciones..md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,17 +139,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "121b07b31f11cb53",
-  "lastOpenFiles": [
-    "Septimo emestre/Sistemas Transaccionales/Introducción.md",
-    "Septimo emestre/Sistemas Transaccionales/Sistemas de Prosesamiento de Transacciones..md",
-    "Septimo emestre/Sistemas Transaccionales/Bloqueos SQL Server.md",
-    "Information Systems Pyramid.png",
-    "Two Phase Commit.png",
-    "Septimo emestre/Metodos Numericos",
-    "Untitled",
-    "Septimo emestre",
-    "Septimo emestre/Arquitectura de Software",
-    "Septimo emestre/Sistemas Transaccionales"
-  ]
+  "active": "d1cf8483c76e4012",
+  "lastOpenFiles": []
 }

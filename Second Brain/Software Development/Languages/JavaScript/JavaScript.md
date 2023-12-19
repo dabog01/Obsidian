@@ -23,7 +23,7 @@ Container for storing data in JavaScript are calles Variables can be declared in
 5. Undefined  
 6. Null  
 7. Symbol  
-8. Object
+8. Object 
 
 ### The Object Datatype
 
@@ -207,7 +207,6 @@ Here is a list of some common HTML events:
 |onload|The browser has finished loading the page|
 
 The list is much longer: [W3Schools JavaScript Reference HTML DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp).
-
 ### Example!
 
 We're going to code a ToDo List :p

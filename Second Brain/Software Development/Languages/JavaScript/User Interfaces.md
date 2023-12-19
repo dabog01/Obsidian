@@ -1,5 +1,3 @@
-
-
 ## Single Page Applications
 
 ==This is specially helpful for application that are changing frequently==

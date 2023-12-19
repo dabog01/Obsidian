@@ -3,7 +3,6 @@
 Django is a python web framework which is going to allow us to write python code that is able to dynamically generate HTML and CSS allowing us to build a dynamic web applications.
 
 --- 
-
 ## WorkFlow
 
 1. Create software that's going to run on a web server
@@ -11,7 +10,6 @@ Django is a python web framework which is going to allow us to write python code
 3. Our server is going to respond back with some sort of response
 
 Thanks to... **HTTP** :3 
-
 ### HTTP
 
 ~~~
@@ -422,6 +420,8 @@ Django now gives us the ability to manipulate SQL just by using Python models
 ~~~
 
 Write python commands to interact with these sorts of models 
+
+![[Pasted image 20231002075356.png]]
 
 **Abstactions layer!** https://en.wikipedia.org/wiki/Abstraction_layer
 
